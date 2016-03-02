@@ -1,4 +1,4 @@
-# TDC-BTS-Performance
+# BTS-Performance
 
 Dashboard application for monitoring network KPI, KQI, and alarm. 
 
